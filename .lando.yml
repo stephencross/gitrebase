@@ -1,0 +1,5 @@
+name: gitrebase
+services:
+  webserver:
+    type: apache 
+    webroot: ./web
